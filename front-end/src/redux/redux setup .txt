@@ -1,0 +1,10 @@
+install react-redux dan @reduxjs/toolkit
+
+1. membuat folder redux
+2. membuat file slice
+3. membuat file store sebagai index dari semua slice
+4. setup store di index.js
+
+
+useDispatch() untuk menggunakan reducers di dalam slice
+useSelector() untuk memilih state yang ingin dipakai
